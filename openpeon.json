@@ -13,12 +13,12 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/CarvingHello.mp3", "label": "Hello!" }
+        { "file": "sounds/CarvingsHello.mp3", "label": "Hello!" }
       ]
     },
     "task.acknowledge": {
       "sounds": [
-        { "file": "sounds/CarvingThankYou.mp3", "label": "Thank you!" }
+        { "file": "sounds/CarvingsThankYou.mp3", "label": "Thank you!" }
       ]
     },
     "task.complete": {
@@ -28,17 +28,17 @@
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/CarvingImSorry.mp3", "label": "I'm sorry." }
+        { "file": "sounds/CarvingsImSorry.mp3", "label": "I'm sorry." }
       ]
     },
     "input.required": {
       "sounds": [
-        { "file": "sounds/CarvingHelpMe.mp3", "label": "Help me!" }
+        { "file": "sounds/CarvingsHelpMe.mp3", "label": "Help me!" }
       ]
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/CarvingDearMe.mp3", "label": "Dear me..." }
+        { "file": "sounds/CGoughDearMe.mp3", "label": "Dear me..." }
       ]
     }
   }
