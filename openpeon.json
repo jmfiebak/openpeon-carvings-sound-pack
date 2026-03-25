@@ -23,7 +23,7 @@
     },
     "task.complete": {
       "sounds": [
-        { "file": "sounds/CarvingVeryGood.mp3", "label": "Very good!" }
+        { "file": "sounds/CarvingsVeryGood.mp3", "label": "Very good!" }
       ]
     },
     "task.error": {
@@ -38,7 +38,7 @@
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/CGoughDearMe.mp3", "label": "Dear me..." }
+        { "file": "sounds/GoughDearMe.mp3", "label": "Dear me ..." }
       ]
     }
   }
