@@ -1,0 +1,40 @@
+{
+  "cesp_version": "1.0",
+  "name": "ds1-carvings",
+  "display_name": "Dark Souls – Carvings",
+  "version": "1.0.0",
+  "description": "Gough's Carvings from Dark Souls as sound effects for various events.",
+  "author": {
+    "name": "jmfiebak",
+    "github": "jmfiebak"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/CarvingHello.mp3", "label": "Hello!" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/CarvingThankYou.mp3", "label": "Thank you!" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/CarvingVeryGood.mp3", "label": "Very good!" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/CarvingImSorry.mp3", "label": "I'm sorry." }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/CarvingHelpMe.mp3", "label": "Help me!" }
+      ]
+    }
+  }
+}
