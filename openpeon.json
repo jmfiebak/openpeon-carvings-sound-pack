@@ -35,6 +35,11 @@
       "sounds": [
         { "file": "sounds/CarvingHelpMe.mp3", "label": "Help me!" }
       ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/CarvingDearMe.mp3", "label": "Dear me..." }
+      ]
     }
   }
 }
